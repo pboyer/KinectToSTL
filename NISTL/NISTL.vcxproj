@@ -85,6 +85,7 @@
     <ClInclude Include="..\..\..\..\..\..\..\Program Files (x86)\OpenNI\Include\XnCppWrapper.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
+    <ClInclude Include="vertex.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="NiStereolithography.cpp" />

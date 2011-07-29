@@ -27,6 +27,9 @@
     <ClInclude Include="..\..\..\..\..\..\..\Program Files (x86)\OpenNI\Include\XnCppWrapper.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="vertex.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
