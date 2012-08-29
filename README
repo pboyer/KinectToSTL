@@ -1,1 +1,1 @@
-Takes a snapshot from a Microsoft Kinect and immediately creates a watertight mesh.
+Takes a snapshot from a Microsoft Kinect, creates a watertight mesh, and exports to STL. Expected compiler is MSVS10.
